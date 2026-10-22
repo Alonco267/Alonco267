@@ -7,7 +7,7 @@
 Building across the stack — from C++ services to web and mobile applications.  
 Interested in backend engineering, systems, algorithms, and the hardware–software interface.
 
-[![Explore my projects](https://img.shields.io/badge/Explore_my_projects-000?style=for-the-badge&logo=github&logoColor=white)](#-featured-projects)
+[![Explore my projects](https://img.shields.io/badge/Explore_my_projects-000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Alonco267#user-content--featured-projects)
 
 </div>
 
